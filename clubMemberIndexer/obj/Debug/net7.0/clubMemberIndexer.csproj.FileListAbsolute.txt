@@ -1,0 +1,15 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\clubMemberIndexer\bin\Debug\net7.0\clubMemberIndexer.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\clubMemberIndexer\bin\Debug\net7.0\clubMemberIndexer.deps.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\clubMemberIndexer\bin\Debug\net7.0\clubMemberIndexer.runtimeconfig.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\clubMemberIndexer\bin\Debug\net7.0\clubMemberIndexer.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\clubMemberIndexer\bin\Debug\net7.0\clubMemberIndexer.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\clubMemberIndexer\obj\Debug\net7.0\clubMemberIndexer.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\clubMemberIndexer\obj\Debug\net7.0\clubMemberIndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\clubMemberIndexer\obj\Debug\net7.0\clubMemberIndexer.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\clubMemberIndexer\obj\Debug\net7.0\clubMemberIndexer.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\clubMemberIndexer\obj\Debug\net7.0\clubMemberIndexer.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\clubMemberIndexer\obj\Debug\net7.0\clubMemberIndexer.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\clubMemberIndexer\obj\Debug\net7.0\refint\clubMemberIndexer.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\clubMemberIndexer\obj\Debug\net7.0\clubMemberIndexer.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\clubMemberIndexer\obj\Debug\net7.0\clubMemberIndexer.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\clubMemberIndexer\obj\Debug\net7.0\ref\clubMemberIndexer.dll

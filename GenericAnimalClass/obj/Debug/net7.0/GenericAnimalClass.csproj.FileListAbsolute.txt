@@ -1,0 +1,15 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\GenericAnimalClass\bin\Debug\net7.0\GenericAnimalClass.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\GenericAnimalClass\bin\Debug\net7.0\GenericAnimalClass.deps.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\GenericAnimalClass\bin\Debug\net7.0\GenericAnimalClass.runtimeconfig.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\GenericAnimalClass\bin\Debug\net7.0\GenericAnimalClass.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\GenericAnimalClass\bin\Debug\net7.0\GenericAnimalClass.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\GenericAnimalClass\obj\Debug\net7.0\GenericAnimalClass.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\GenericAnimalClass\obj\Debug\net7.0\GenericAnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\GenericAnimalClass\obj\Debug\net7.0\GenericAnimalClass.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\GenericAnimalClass\obj\Debug\net7.0\GenericAnimalClass.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\GenericAnimalClass\obj\Debug\net7.0\GenericAnimalClass.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\GenericAnimalClass\obj\Debug\net7.0\GenericAnimalClass.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\GenericAnimalClass\obj\Debug\net7.0\refint\GenericAnimalClass.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\GenericAnimalClass\obj\Debug\net7.0\GenericAnimalClass.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\GenericAnimalClass\obj\Debug\net7.0\GenericAnimalClass.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\GenericAnimalClass\obj\Debug\net7.0\ref\GenericAnimalClass.dll

@@ -1,0 +1,15 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\immutableID\bin\Debug\net7.0\immutableID.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\immutableID\bin\Debug\net7.0\immutableID.deps.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\immutableID\bin\Debug\net7.0\immutableID.runtimeconfig.json
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\immutableID\bin\Debug\net7.0\immutableID.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\immutableID\bin\Debug\net7.0\immutableID.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\immutableID\obj\Debug\net7.0\immutableID.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\immutableID\obj\Debug\net7.0\immutableID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\immutableID\obj\Debug\net7.0\immutableID.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\immutableID\obj\Debug\net7.0\immutableID.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\immutableID\obj\Debug\net7.0\immutableID.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\immutableID\obj\Debug\net7.0\immutableID.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\immutableID\obj\Debug\net7.0\refint\immutableID.dll
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\immutableID\obj\Debug\net7.0\immutableID.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\immutableID\obj\Debug\net7.0\immutableID.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\immutableID\obj\Debug\net7.0\ref\immutableID.dll

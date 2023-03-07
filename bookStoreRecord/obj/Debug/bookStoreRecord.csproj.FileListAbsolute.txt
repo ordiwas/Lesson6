@@ -1,0 +1,8 @@
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\bookStoreRecord\bin\Debug\bookStoreRecord.exe.config
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\bookStoreRecord\bin\Debug\bookStoreRecord.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\bookStoreRecord\bin\Debug\bookStoreRecord.pdb
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\bookStoreRecord\obj\Debug\bookStoreRecord.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\bookStoreRecord\obj\Debug\bookStoreRecord.csproj.SuggestedBindingRedirects.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\bookStoreRecord\obj\Debug\bookStoreRecord.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\bookStoreRecord\obj\Debug\bookStoreRecord.exe
+C:\Users\gamer\OneDrive\Desktop\School\CIT195\Lesson6\bookStoreRecord\obj\Debug\bookStoreRecord.pdb
